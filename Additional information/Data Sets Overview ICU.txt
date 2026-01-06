@@ -1,0 +1,129 @@
+ICU Data sets
+Caregiver : Unique Identifier for caregivers. (Most likely not applicable. Looking for trends, this would be more for inside the hospital performances and doesn't have any trends. Doesn't add any value.
+
+Chart events:
+Subject_Id: Subject unique ID 1
+Hadm_id: Hospital Admin unique ID 2
+Stay_id: Stay Unique ID 3
+Caregiver_ID:Caregiver unique ID 4
+Chart_time: When the chart was created. Always rounded to the next hour. Not valuable 5
+Store_time: When the chart was stored. Not valuable 6
+itemid: Item Unique ID 7
+value: Random notes 8
+valuenum: value number 9
+valueuom: Value of medicine (unit) 10
+warning: Hot coded: 0 no warning, 1 Warning 11
+
+Preprocessing: Changed column names: Charttime to Chart_time, storetime to store_time. Adjusted columns so all data can be read.
+
+Date Time events:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+Caregiver_ID:Caregiver unique ID
+Chart_time: Chart created time 12 
+Store_time: Chart stoed time 13
+item_id: Item unique ID 
+
+Preprocessing: Changed column names: Charttime to Chart_time, storetime to store_time. itemid to item_id. Adjusted columns so all data can be read.
+
+ICU Stay:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+first_careunit: First care unit to see patient 14
+last_careunit: Last Care unit to See patient 15
+in_time: Time the patient entered the ICU 16
+out_time: Time the patient left the ICU 17
+los:Length of stay, recorded in days. 18
+
+Preprocessing: Adjusted column with for easier reading.
+
+Ingredient Events:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+Caregiver_ID:Caregiver unique ID
+drug_start_time: When drug was first started (Previously start time) 19
+drug_end_time: When Drug was finished being create (Previously endtime) 20
+drug_Store_time: When drugs was stored 21
+item_id: Item unique ID 
+amount: amount of drug created 22
+amountuom: Unit of drug 23
+rate: numeric (for rate of admin) 24
+rateuom: rate of administration 25
+order_id: unique id for each drug ordered 26
+link_order_id: If multiple drugs ordered 27
+Statusdescription: Current status of the drug 28
+Originalamount:What they were issued before 29
+Originalrate: what the rate of medicine issue was before. 30
+
+
+Input Events:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+Caregiver_ID:Caregiver unique ID
+starttime: Input start time (19
+endtime: when the input ends (20)
+storetime: When the item was stored by the pharamacy (Ready to use) (21)
+Item_id: Item unique ID
+rate: rate numeric of prescription
+rateuom: Rate unit of measure
+order_id: linking order_id for pharmacy
+ordercategoryname: prescription 31
+secondarycategoryname: Second prescription 32
+ordercomponenttypedescription: Look up 33
+ordercategorydescription: How prescription is administered 34
+Patient weight: affects dosage 35
+total amount: total amount (numeric) of the dosage 36
+Totalamountuom: total amount unit of measure 37
+isopenbag: does a patient have a bogota bag. hot coded: 0=no 1=yes 38
+continueinnextdepartment: will treatment continue in next department: hot coded: 0=no 1=yes 39
+Statusdescription: Current status of the input 
+Originalamount: Original amount (numeric)
+originalrate:Original rate (numeric)
+
+Output events:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+Caregiver_ID:Caregiver unique ID
+starttime: Input start time
+storetime: When the item was stored by the pharamacy (Ready to use)
+Item_id: Item unique ID
+Value: numeric 40
+Valueuom: unit of measure for value 41
+
+Procedure Events:
+Subject_Id: Subject unique ID
+Hadm_id: Hospital Admin unique ID
+Stay_id: Stay Unique ID
+Caregiver_ID:Caregiver unique ID
+starttime: Input start time
+endtime: when the input ends
+storetime: When the item was stored by the pharamacy (Ready to use)
+Item_id: Item unique ID
+value: numeric
+valueuom: value unit of measure
+Location: Where on the body 42
+Location category: further description of location 43
+order_id: unique order ID
+ordercategory description: What type of order 
+Patientweight: Weight of patient
+Isopenbag: Does a patient have a bogota bag. Hot coded 0=no 1=YEs
+continueinnextdepartment: Is the treatment carried over in next department. Hotcoded 0=no 1=Yes
+Statusdescription: Status of event
+Original amount:  numeric
+Original rate: hot code to 0 if nothing was administered.
+
+D_items:
+Item_id: Item unique id
+label: Name of item 44
+abbreiviation: abbreviation of item 45
+linksto: What the item links to 46
+Category: What category the item falls under 47
+Unit name: unit of measure for the item if applicable 48
+param_type: what type of data 49 
+lownormalvalue:Low value for the item (if administered) 50
+Highnormalvalue: High value for the item (if administered) 

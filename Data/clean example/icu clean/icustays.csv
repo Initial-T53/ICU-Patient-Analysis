@@ -1,0 +1,141 @@
+subject_id,hadm_id,stay_id,first_careunit,last_careunit,los
+10018328,23786647,31269608,Neuro Stepdown,Neuro Stepdown,7.702511574
+10020187,24104168,37509585,Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Stepdown,5.452662037
+10020187,26842957,32554129,Neuro Intermediate,Neuro Intermediate,0.872685185
+10012853,27882036,31338022,Trauma SICU (TSICU),Trauma SICU (TSICU),3.766724537
+10020740,25826145,32145159,Trauma SICU (TSICU),Trauma SICU (TSICU),1.037106481
+10039708,23819016,38559363,Trauma SICU (TSICU),Trauma SICU (TSICU),1.837685185
+10020306,23052851,38540883,Trauma SICU (TSICU),Trauma SICU (TSICU),3.198472222
+10019568,28710730,30876334,Trauma SICU (TSICU),Trauma SICU (TSICU),0.815416667
+10018081,28861356,38333427,Trauma SICU (TSICU),Trauma SICU (TSICU),2.110532407
+10018081,21027282,37293400,Trauma SICU (TSICU),Trauma SICU (TSICU),13.89922454
+10010867,22429197,39880770,Trauma SICU (TSICU),Trauma SICU (TSICU),9.362048611
+10021487,28998349,38197705,Trauma SICU (TSICU),Trauma SICU (TSICU),15.68892361
+10003046,26048429,35514836,Trauma SICU (TSICU),Trauma SICU (TSICU),1.974085648
+10017492,27417763,36035031,Trauma SICU (TSICU),Trauma SICU (TSICU),0.118564815
+10017492,27417763,39543480,Trauma SICU (TSICU),Trauma SICU (TSICU),0.798125
+10018501,28479513,35446858,Trauma SICU (TSICU),Trauma SICU (TSICU),1.941215278
+10008454,20291550,31959184,Trauma SICU (TSICU),Trauma SICU (TSICU),4.983888889
+10026354,24547356,36091287,Trauma SICU (TSICU),Trauma SICU (TSICU),1.387013889
+10029291,22205327,36059427,Coronary Care Unit (CCU),Coronary Care Unit (CCU),6.327037037
+10027445,29163082,36084484,Coronary Care Unit (CCU),Coronary Care Unit (CCU),1.207407407
+10010471,29842315,32119961,Coronary Care Unit (CCU),Coronary Care Unit (CCU),4.907152778
+10023117,21607814,30955999,Coronary Care Unit (CCU),Coronary Care Unit (CCU),13.21467593
+10002495,24982426,36753294,Coronary Care Unit (CCU),Coronary Care Unit (CCU),5.087511574
+10031404,21606243,35544374,Coronary Care Unit (CCU),Coronary Care Unit (CCU),1.206481481
+10017492,27417763,36871784,Coronary Care Unit (CCU),Coronary Care Unit (CCU),0.261608796
+10026255,22059910,31248398,Coronary Care Unit (CCU),Coronary Care Unit (CCU),0.835590278
+10015931,28157142,39544395,Coronary Care Unit (CCU),Coronary Care Unit (CCU),1.203715278
+10038999,27189241,39711498,Coronary Care Unit (CCU),Coronary Care Unit (CCU),8.836469907
+10029291,22205327,35146796,Coronary Care Unit (CCU),Coronary Care Unit (CCU),6.474791667
+10023117,21133938,38554095,Medical Intensive Care Unit (MICU),Coronary Care Unit (CCU),6.605625
+10023117,28872262,30057454,Cardiac Vascular Intensive Care Unit (CVICU),Coronary Care Unit (CCU),4.446550926
+10014354,27487226,38017367,Neuro Surgical Intensive Care Unit (Neuro SICU),Coronary Care Unit (CCU),3.109513889
+10003400,23559586,38383343,Coronary Care Unit (CCU),Medical Intensive Care Unit (MICU),16.06983796
+10004235,24181354,34100191,Coronary Care Unit (CCU),Medical Intensive Care Unit (MICU),4.952106481
+10002930,25696644,37049133,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.135231481
+10002428,20321825,34807493,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),2.023842593
+10007928,20338077,35128235,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),2.859664352
+10020944,29974575,30757476,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),9.076828704
+10002428,28662225,38875437,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),7.032893519
+10026406,25260176,30864406,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),0.481759259
+10020740,23831430,35889503,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),3.165173611
+10036156,28019404,38587181,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.393263889
+10006053,22942076,34617352,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.751365741
+10006053,22942076,32895909,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),0.023726852
+10000032,29079034,39553978,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),0.410266204
+10019777,27738145,34578020,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),7.1284375
+10021312,28829452,37507305,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.099803241
+10007818,22987108,32359580,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),20.52868056
+10020740,23831430,31077365,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),5.126076389
+10021938,23112364,39492446,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.632962963
+10016742,28506150,32314488,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),3.267719907
+10019917,22585261,34324099,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.321516204
+10037975,27617929,39061571,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),4.878240741
+10002428,28662225,33987268,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),4.981134259
+10015931,24420677,38137964,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.159953704
+10021938,27154822,33083787,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),1.388159722
+10027445,26275841,34499716,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),3.80900463
+10015860,25085565,32496174,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),0.751851852
+10016742,27568122,30425410,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),3.349803241
+10029484,20764029,35396193,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),0.654108796
+10038081,20755971,38430513,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),3.698518519
+10004720,22081550,35009126,Surgical Intensive Care Unit (SICU),Medical Intensive Care Unit (MICU),5.05619213
+10002428,23473524,35479615,Surgical Intensive Care Unit (SICU),Medical Intensive Care Unit (MICU),10.97722222
+10005866,20364112,34170353,Trauma SICU (TSICU),Surgical Intensive Care Unit (SICU),2.208657407
+10026255,22059910,38229329,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.150868056
+10008287,22168393,33348260,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.148981481
+10001217,24597018,37067082,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.118032407
+10022041,28909879,30913302,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.892384259
+10016810,20973395,35436337,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),2.488912037
+10024043,24717014,32374504,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),2.688321759
+10018845,21101111,36427705,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.490891204
+10014078,25809882,38907302,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),2.525509259
+10016150,29374560,33652203,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.155949074
+10021487,27660781,35065627,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.788611111
+10015860,24698912,36734659,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.6421875
+10027602,21477991,32453351,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.928564815
+10039831,26924951,39142259,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.871585648
+10025463,24470193,38275267,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.611944444
+10039997,24294180,36893762,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.171608796
+10016742,29281842,37057036,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),4.909537037
+10039708,24928679,37323533,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.867314815
+10025612,23403708,32587226,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),5.229965278
+10031757,28477280,33244906,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),2.199652778
+10001217,27703517,34592300,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.948113426
+10040025,27996267,36107367,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),6.538101852
+10038933,25129047,32166508,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),5.355196759
+10014354,22741225,37200209,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.84224537
+10021666,22756440,35475449,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.616365741
+10022880,27708593,39623478,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),0.706747685
+10027602,28166872,32391858,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),13.25844907
+10031757,28477280,30458995,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),1.766400463
+10019172,24997044,32283063,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),3.455891204
+10035185,22580999,39084876,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.083877315
+10013049,22675517,35679826,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.176921296
+10022017,22342963,39497668,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),4.473657407
+10009049,22995465,35636875,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.2175
+10004457,23251352,31494479,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.161018519
+10038992,24745425,37127068,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.167824074
+10004422,21255400,32155744,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),6.356898148
+10007058,22954658,32506122,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),2.022962963
+10006580,24159665,38329661,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),0.898449074
+10005909,20199380,36496303,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),3.677384259
+10011398,27505812,37648963,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.04037037
+10018423,29366372,30665396,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.240324074
+10009035,28324362,38507547,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.186168981
+10023771,20044587,33177122,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),2.288333333
+10022281,29642388,30585761,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.446539352
+10005348,25239799,34629895,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.999328704
+10012552,27089790,33383124,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),3.158657407
+10019385,20297618,39268883,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.313287037
+10014729,28889419,33558396,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),2.471168981
+10009628,25926192,35258379,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),2.280752315
+10005817,20626031,32604416,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),2.359097222
+10021118,24490144,36558922,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),1.48724537
+10037861,24540843,34531557,Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Surgical Intensive Care Unit (Neuro SICU),10.41678241
+10005817,28661809,31316840,Medical Intensive Care Unit (MICU),Medical/Surgical Intensive Care Unit (MICU/SICU),15.9728125
+10015272,27993466,37267577,Cardiac Vascular Intensive Care Unit (CVICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.075219907
+10019003,29279905,34107647,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),3.609768519
+10037928,22490490,31552399,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),0.812916667
+10039708,28258130,33281088,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),16.18078704
+10002930,25922998,35629889,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),0.678969907
+10014354,27487226,34600477,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1.772106481
+10019003,21457723,35727289,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.8859375
+10014354,29600294,39864867,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1.2415625
+10004733,27411876,39635619,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),8.357372685
+10007795,28477357,31921355,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1.050520833
+10020640,27984218,30849778,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.557604167
+10020740,23831430,35044342,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),4.672222222
+10023239,29295881,33846653,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.82537037
+10023239,21759936,35024147,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.432997685
+10001725,25563031,31205490,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1.338587963
+10003400,23559586,34577403,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),2.916701389
+10019003,27525946,35214014,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),3.062326389
+10035631,29276678,30932571,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),10.49425926
+10003400,20214994,32128372,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),12.91130787
+10020786,23488445,33683112,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1.424756944
+10020740,23831430,35026312,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),7.446423611
+10032725,20611640,30101877,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),3.3496875
+10037928,24656677,39804682,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),0.840856481
+10015931,22130791,37093652,Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU),4.844085648
