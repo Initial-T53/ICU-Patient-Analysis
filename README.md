@@ -93,7 +93,7 @@ These results suggest that treatment complexit and medication burden play a crit
 
 # Operational Recommendations
 Based on the finidings, two practical interventions are proposed:
-# 1 Clinical Prescription Recommendation System
+# Clinical Prescription Recommendation System
 A decision-support tool that:
 * Accepts patient conditions and physcians-prescribed medications
 * Recommends alternative or complementary prescriptions with comparable or improved outcomes.
